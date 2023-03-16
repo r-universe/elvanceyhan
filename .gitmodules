@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nnspat"]
+	path = nnspat
+	url = https://github.com/elvanceyhan/nnspat
+	shallow = true
+	registered = true
+[submodule "pcds"]
+	path = pcds
+	url = https://github.com/elvanceyhan/pcds
+	shallow = true
+	registered = true

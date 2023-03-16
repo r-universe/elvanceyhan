@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nnspat",
+    "oncran": true
+  },
+  {
+    "package": "pcds",
+    "oncran": true
+  }
+]
