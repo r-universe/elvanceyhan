@@ -8,3 +8,6 @@
 [submodule "pcds"]
 	path = pcds
 	url = https://github.com/elvanceyhan/pcds
+[submodule "pcds.ugraph"]
+	path = pcds.ugraph
+	url = https://github.com/elvanceyhan/pcds.ugraph
